@@ -48,7 +48,7 @@
 #pragma hdrstop     // Borland C++: stops processing headers for precompiled headers
 #pragma startup init_function   // Borland: calls init_function at program startup
 #pragma exit cleanup_function   // Borland: calls cleanup_function at program exit
-#include <bits.stdc++.h>
+#include <bits/stdc++.h>
 
 using namespace stdl;
 
